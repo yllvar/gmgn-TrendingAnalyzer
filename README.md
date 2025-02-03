@@ -69,16 +69,11 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4️⃣ Create a **.env** file in the project root with your API keys:
-```ini
-OPENAI_API_KEY=your_openai_api_key
-```
-
 ## 🚀 Usage
 
 Run the analyzer:
 ```bash
-python analyze.py
+python analyzer.py
 ```
 
 The script will:
