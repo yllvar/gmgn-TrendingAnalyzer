@@ -4,7 +4,7 @@
 
 <img width="1138" alt="Screenshot 2025-02-03 at 19 11 42" src="https://github.com/user-attachments/assets/61dfce39-417d-47ef-b166-0b6c108fe815" />
 
-A sophisticated tool for analyzing trending cryptocurrency tokens across multiple timeframes using the GMGN API. The analyzer aggregates data, filters tokens based on key metrics, and provides visual analytics along with expert analysis.
+A sophisticated tool for analyzing trending cryptocurrency tokens across multiple timeframes using the GMGN.ai wrapper. The analyzer aggregates data, filters tokens based on key metrics, and provides visual analytics along with expert analysis.
 
 <img width="1360" alt="Screenshot 2025-02-03 at 19 19 18" src="https://github.com/user-attachments/assets/6bdcf69e-8c7f-4a0e-b6d4-f0d1b8501363" />
 
@@ -15,7 +15,6 @@ A sophisticated tool for analyzing trending cryptocurrency tokens across multipl
 - 📊 **Multi-timeframe token trend analysis** (1m, 5m, 1h, 6h, 24h)
 - 📈 **Data aggregation and filtering** based on volume, market cap, and consistency
 - 🎨 **Automated visualization generation**
-- 🤖 **LLM-powered market analysis** using GPT-4
 - ⏳ **Continuous monitoring** with automated refresh
 
 ## 📌 Technical Analysis Components
@@ -90,15 +89,12 @@ The analyzer produces:
 - 📑 **Tabulated token data** with key metrics
 - 🔗 **List of token addresses** for easy reference
 - 📊 **Visual plot saved** as `'trending_analysis_plot.png'`
-- 📢 **Detailed market analysis and recommendations**
 
 ## 📦 Dependencies
 
 - 🐍 `pandas` – Data manipulation and analysis
 - 📊 `matplotlib` – Data visualization
 - 📜 `tabulate` – Console table formatting
-- 🤖 `langchain` – LLM integration
-- 🔗 `gmgn` – API interface for token data
 - 🔑 `python-dotenv` – Environment variable management
 
 ## ⚠️ Notes
@@ -108,5 +104,4 @@ The analyzer produces:
 - 🔒 **Keep API keys secure** and never commit them to version control
 
 ---
-
 
