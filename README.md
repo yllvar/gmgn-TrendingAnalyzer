@@ -97,11 +97,21 @@ The analyzer produces:
 - 📜 `tabulate` – Console table formatting
 - 🔑 `python-dotenv` – Environment variable management
 
-## ⚠️ Notes
+# ⚠️ Notes
 
-- 🌐 **Ensure a stable internet connection** for API calls
-- 🚦 **Monitor API rate limits** to prevent errors
-- 🔒 **Keep API keys secure** and never commit them to version control
+## 💡 Acknowledgments
+
+This project is based on the work of 1f1n and his repository: [gmgnai-wrapper](https://github.com/1f1n/gmgnai-wrapper).
+
+Big shoutout to 1f1n for his amazing work! 🙌
+
+## 🤝 Contributing
+
+Feel free to fork this repository, make improvements, and submit a pull request. Contributions are always welcome!
+
+## 📜 License
+
+This project is open-source and free to use. Modify it as you see fit!
 
 ---
 
