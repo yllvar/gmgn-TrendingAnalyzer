@@ -2,7 +2,8 @@ import random
 import tls_client
 from fake_useragent import UserAgent
 
-# author - 1f1n
+# This project is inspired by 1f1n https://github.com/1f1n/gmgnai-wrapper
+# Big shout out to original author - 1f1n
 # date - 05/06/2024
 
 class gmgn:
