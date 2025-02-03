@@ -79,6 +79,7 @@ The script will:
 - 📡 Fetch trending tokens **every 60 seconds**
 - 🧠 Generate **analysis and visualizations**
 - 🖼️ Save plots as **'trending_analysis_plot.png'**
+- 📑 Save analysis as **'trending_analysis.csv'**
 - 🖥️ Display token data and analysis in the **console**
 
 To stop the script, press **Ctrl+C**.
